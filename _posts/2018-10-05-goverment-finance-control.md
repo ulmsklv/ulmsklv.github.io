@@ -1,8 +1,9 @@
 ---
 layout: post
-title: # Финансы. Финансовый контроль.
+title: Финансы. Финансовый контроль.
 ---
-<iframe src="https://giphy.com/embed/xTiTnqUxyWbsAXq7Ju" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yosub-money-donald-duck-cash-xTiTnqUxyWbsAXq7Ju">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/xTiTnqUxyWbsAXq7Ju" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yosub-money-donald-duck-cash-xTiTnqUxyWbsAXq7Ju"></a></p>
+
 ## Понятие и значение финансового контроля
 Финансовый контроль — это контроль соблюдения законности и целесообразности действий в области образования, распределения и использования государственных, муниципальных и иных денежных фондов (финансовых ресурсов) публичного характера в целях эффективного социально-экономического развития страны в целом и ее регионов.
 Объектом финансового контроля является движение денежных средств, субъект - органы и организации осущетсвляющие финансовый контроль. Цель контроля - соблюдение требований законодательства. Финансовый контроль классифицируют по определенные признакам.
