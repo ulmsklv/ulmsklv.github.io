@@ -4,8 +4,8 @@ layout: post
 title: Финансы. Федеральный Бюджет.
 ---
  
->*Гораздо безопаснее воровать огромные суммы с помощью шариковой ручки, чем небольшие посредством пистолета. - Уоррен Баффет
-<iframe src="https://giphy.com/embed/14vTnFcC3Oom4M" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/youtube-videos-month-14vTnFcC3Oom4M">via GIPHY</a></p>
+>Гораздо безопаснее воровать огромные суммы с помощью шариковой ручки, чем небольшие посредством пистолета. - Уоррен Баффет
+<iframe src="https://giphy.com/embed/14vTnFcC3Oom4M" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/youtube-videos-month-14vTnFcC3Oom4M"></a></p>
 <!--more-->
 
 *Федеральный бюджет* - это форма образования и расходования централизованного фонда денежных средств для выполнения расходных обязательств Российской Федерации. ФБ - основной финансовый план государства на очередной финансовый год (1 января - 31 декабря)
