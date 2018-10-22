@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
+### Подписывайся на мой твич-канал!
 
-Some information about you!
+[Twitch](https://twitch.tv/ulmsklv)
 
-### More Information
+### Напиши мне!
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[ulmsklv@gmail.com](mailto:ulmsklv@gmail.com)
